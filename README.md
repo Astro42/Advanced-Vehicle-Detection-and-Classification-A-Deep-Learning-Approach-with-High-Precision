@@ -1,7 +1,7 @@
 # Advanced-Vehicle-Detection-and-Classification-A-Deep-Learning-Approach-with-High-Precision
 
 
-The "Intelligent Vehicle Detection and Counting System" presented in this project aims to accurately detect and count vehicles on highways using computer vision techniques and deep learning models. Here's a summary of the key components and steps involved:
+The "Vehicle-Detection-and-Classification system" presented in this project aims to accurately detect and count vehicles on highways using computer vision techniques and deep learning models. Here's a summary of the key components and steps involved:
 
 Introduction: 
 The system utilizes the YOLOv3 network for vehicle detection and the ORB algorithm for tracking vehicle trajectories. The goal is to address the challenge of detecting and counting vehicles of various sizes on highways.
